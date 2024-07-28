@@ -1,8 +1,8 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.android.com%2Fmodern-android-development&psig=AOvVaw3BEssrRegYYRI5jsCBgCYO&ust=1720881694585000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCMiMiJjeoYcDFQAAAAAdAAAAABCnAQ)](https://www.linkedin.com/in/belkacem-messaoudi-a95591230/)
+[![MasterHead](https://developer.android.com/images/social/android-developer-social-share.png)](https://www.linkedin.com/in/belkacem-messaoudi-a95591230/)
 
 <h1 align="center">Hi 👋, I'm Messaoudi Belkacem</h1>
-<h3 align="center">A passionate android developer from Algeria</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fravisah.in%2Fmobile-app-designing-and-development&psig=AOvVaw3BEssrRegYYRI5jsCBgCYO&ust=1720881694585000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiMiJjeoYcDFQAAAAAdAAAAABBg"/>
+<h3 align="center">A passionate Android developer from Algeria</h3>
+<img align="right" alt="coding" width="400" src="https://ravisah.in/images/mobile-app-development.svg"/>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=messaoudi-belkacem&label=Profile%20views&color=0e75b6&style=flat" alt="messaoudi-belkacem" /> 
@@ -16,10 +16,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/belkacem messaoudi" target="blank">
+  <a href="https://linkedin.com/in/belkacem-messaoudi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belkacem messaoudi" height="30" width="40" />
   </a>
-  <a href="https://fb.com/wail messaoudi" target="blank">
+  <a href="https://fb.com/wail.messaoudi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wail messaoudi" height="30" width="40" />
   </a>
   <a href="https://instagram.com/waile.massudi" target="blank">
