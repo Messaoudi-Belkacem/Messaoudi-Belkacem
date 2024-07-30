@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Messaoudi Belkacem</h1>
 <h3 align="center">A passionate Android developer from Algeria</h3>
-<img align="right" alt="coding" width="400" src="https://ravisah.in/images/mobile-app-development.svg"/>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=messaoudi-belkacem&label=Profile%20views&color=0e75b6&style=flat" alt="messaoudi-belkacem" /> 
