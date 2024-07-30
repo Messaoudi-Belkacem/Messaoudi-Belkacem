@@ -83,4 +83,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=messaoudi-belkacem&show_icons=true&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=messaoudi-belkacem)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=messaoudi-belkacem&theme=transparent)
