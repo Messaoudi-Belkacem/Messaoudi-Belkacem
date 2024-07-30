@@ -14,17 +14,17 @@
 - 📫 How to reach me **wailmessaoudi806@gmail.com**
 
 <h3 align="center">Connect with me</h3>
-<p align="center" style="text-decoration: none;">
-  <a href="https://linkedin.com/in/belkacem-messaoudi" target="blank" style="text-decoration: none;">
+<div align="center" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/belkacem-messaoudi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belkacem messaoudi" height="30" width="40" />
   </a>
-  <a href="https://fb.com/wail.messaoudi" target="blank" style="text-decoration: none;">
+  <a href="https://fb.com/wail.messaoudi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wail messaoudi" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/waile.massudi" target="blank" style="text-decoration: none;">
+  <a href="https://instagram.com/waile.massudi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waile.massudi" height="30" width="40" />
   </a>
-</p>
+</div>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
