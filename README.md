@@ -82,7 +82,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=messaoudi-belkacem&show_icons=true&locale=en&layout=compact" alt="messaoudi-belkacem" />
 </p>
 
-<p>&nbsp;
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=messaoudi-belkacem&show_icons=true&locale=en" alt="messaoudi-belkacem" />
 </p>
 
