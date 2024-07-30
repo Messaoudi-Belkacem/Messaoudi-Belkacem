@@ -78,16 +78,9 @@
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=messaoudi-belkacem&show_icons=true&locale=en&layout=compact" alt="messaoudi-belkacem" />
-</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=messaoudi-belkacem&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=messaoudi-belkacem&show_icons=true&theme=transparent)
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=messaoudi-belkacem&show_icons=true&locale=en" alt="messaoudi-belkacem" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=messaoudi-belkacem&show_icons=true&theme=transparent)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=messaoudi-belkacem&" alt="messaoudi-belkacem" />
-</p>
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
