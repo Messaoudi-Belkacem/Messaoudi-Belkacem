@@ -1,4 +1,4 @@
-[![MasterHead](https://developer.android.com/images/social/android-developer-social-share.png)](https://www.linkedin.com/in/belkacem-messaoudi-a95591230/)
+[![MasterHead](./masterhead.png)](https://www.linkedin.com/in/belkacem-messaoudi-a95591230/)
 
 <h1 align="center">Hi 👋, I'm Messaoudi Belkacem</h1>
 <h3 align="center">A passionate Android developer from Algeria</h3>
